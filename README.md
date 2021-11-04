@@ -52,3 +52,4 @@ Summary of my personal projects organised by languages.
 |[DeepDelta](https://github.com/Cruisoring/DeepDelta)|A compact Python library to compare **any** two objects with a rich set of configurable options and comparators with multiple desirable output format.|
 |[flask_rest](https://github.com/Cruisoring/flask_rest)|A Python Flask App to load CSV/JSON data file to create REST APIs with CRUD enabled on the fly.|
 |[DjangoAssessment](https://github.com/Cruisoring/DjangoAssessment)|A demo web app build with Python Django.|
+|[lyric-ppt](https://github.com/Cruisoring/lyric-ppt)|Use python-pptx to create Lyric PPT from multiple *.md files. .|
